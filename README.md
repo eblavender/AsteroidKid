@@ -1,6 +1,4 @@
 # AsteroidKid
-A test project created for the Kwalee interview test
-
 Hi there,
 
 I hope that you enjoy this game that I have made for you over my weekend :)
